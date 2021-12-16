@@ -1,18 +1,17 @@
-import React ,{ ElementType, MouseEventHandler, ReactNode } from "react";
-import { StyledButton, StyledIcon } from "./styled";
+import React, { ElementType, MouseEventHandler, ReactNode } from 'react';
+import { StyledButton, StyledIcon } from './styled';
+import Spinner from '../spinner';
 import { ComponentSize } from '../../config/sizes';
 
 export type ButtonType = 'default' | 'danger' | 'ghost' | 'secondary';
-
-
 
 interface BaseButtonProps {
     type?: ButtonType;
     icon?: ElementType;
     size?: ComponentSize;
     className?: string;
-    disabled?: boolean;
     children?: ReactNode;
+    disabled?: boolean;
     loading?: boolean;
 }
 
@@ -83,7 +82,7 @@ const Button: React.ForwardRefRenderFunction<unknown, ButtonProps> = (props, ref
                 {loading ? (
                     <>
                         Loading
-                        {/* <Spinner {...spinnerStyles} /> */}
+                        <Spinner {...spinnerStyles} />
                     </>
                 ) : childrenWithIcon}
             </StyledButton>
@@ -102,7 +101,7 @@ const Button: React.ForwardRefRenderFunction<unknown, ButtonProps> = (props, ref
                 {loading ? (
                     <>
                         Loading
-                        {/* <Spinner {...spinnerStyles} /> */}
+                        <Spinner {...spinnerStyles} />
                     </>
                 ) : childrenWithIcon}
             </StyledButton>
@@ -121,7 +120,7 @@ const Button: React.ForwardRefRenderFunction<unknown, ButtonProps> = (props, ref
             {loading ? (
                 <>
                     Loading
-                    {/* <Spinner {...spinnerStyles} /> */}
+                    <Spinner {...spinnerStyles} />
                 </>
             ) : childrenWithIcon }
         </StyledButton>

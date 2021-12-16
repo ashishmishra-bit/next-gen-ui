@@ -1,0 +1,1 @@
+{"version":3,"file":"styled.d.ts","sourceRoot":"","sources":["../../../src/components/button/styled.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,UAAU,EAAE,MAAM,UAAU,CAAC;AACtC,OAAO,EAAE,aAAa,EAAyB,MAAM,oBAAoB,CAAC;AAwC1E,UAAU,iBAAiB;IACvB,SAAS,EAAE,UAAU,CAAC;IACtB,IAAI,EAAE,aAAa,CAAC;IACpB,QAAQ,EAAE,OAAO,CAAC;CACrB;AAGD,eAAO,MAAM,YAAY,sFAmCxB,CAAC;AAEF,eAAO,MAAM,UAAU,oEAEtB,CAAC"}
