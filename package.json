@@ -11,7 +11,8 @@
     "lib"
   ],
   "dependencies": {
-    "styled-components": "^5.3.3"
+    "email-validator": "^2.0.4",
+    "styled-components": ">=5.3.3"
   },
   "scripts": {
     "compile-icons": "npx @svgr/cli -d src/icons src/icons --typescript",
@@ -66,7 +67,6 @@
     "@storybook/preset-create-react-app": "^4.0.0",
     "@storybook/react": "^6.4.9",
     "@svgr/cli": "^6.1.2",
-    "@types/styled-components": "^5.1.18",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
@@ -74,11 +74,12 @@
     "@types/node": "^16.11.13",
     "@types/react": "^17.0.37",
     "@types/react-dom": "^17.0.11",
+    "@types/styled-components": "^5.1.18",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
-    "webpack": "^5.65.0",
     "typescript": "^4.5.4",
-    "web-vitals": "^2.1.2"
+    "web-vitals": "^2.1.2",
+    "webpack": "^5.65.0"
   }
 }
