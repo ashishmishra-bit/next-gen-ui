@@ -4,6 +4,7 @@
   "private": false,
   "license": "MIT",
   "author": "Ashish Kumar Mishhra",
+  "repository": "https://github.com/ashishmishra-bit/next-gen-ui.git",
   "main": "/lib/index.js",
   "files": [
     "lib"
