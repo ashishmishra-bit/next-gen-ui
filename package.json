@@ -7,6 +7,9 @@
   "repository": "https://github.com/ashishmishra-bit/next-gen-ui.git",
   "main": "/lib/index.js",
   "homepage": "https://nextgenui.vercel.app/",
+  "directories": {
+    "lib": "lib"
+  },
   "files": [
     "lib"
   ],
