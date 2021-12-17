@@ -12,7 +12,7 @@
   ],
   "dependencies": {
     "email-validator": "^2.0.4",
-    "styled-components": ">=5.3.3"
+    "styled-components": "^5.3.3"
   },
   "scripts": {
     "compile-icons": "npx @svgr/cli -d src/icons src/icons --typescript",
