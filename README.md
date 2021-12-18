@@ -1,46 +1,113 @@
-# Getting Started with Create React App
+<img src="https://imgur.com/JsW6aKt.png" >
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Next-Gen-UI
+Next Gen Ui is a home for front-end & UI/Ux developers. We provide all the necessary components required to build a scalable front-end application which suits the user experience in a unique way. <br>
+we provide :
+1. <a href="https://www.npmjs.com/package/next-gen-ui">NPM</a> package support with latest updates.
+2. _**HTML**_ & _**ReactJs/NextJs**_ based per-build templates which uses advance CSS Library called _**Tailwind CSS**_
+3. List your UI design.
+4. Developers support.
 
-## Available Scripts
+<h3>Visit Us on:</h3> 
+1. **Website:** <a href="https://nextgenui.vercel.app/profile">nextgenui.in</a> <br>
+2. **Npm Package:** <a href="https://www.npmjs.com/package/next-gen-ui">next-gen-ui</a> <br>
+3. **Github** <a href="https://github.com/ashishmishra-bit/next-gen-ui.git">Visit next-gen-ui Repository</a>
 
-In the project directory, you can run:
+<hr>
 
-### `npm start`
+<img src="https://i.imgur.com/BAUPjcG.png" >
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Developers
+1. Ashish Kumar Mishra <br>
+2. Ankit Raj 
+3. Om Prakash
+4. Shivam Kumar Shina
+5. Shubham Singh
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# Usage
+<h3>Components We Provide:</h3> 
 
-### `npm test`
+- [x] Navbars 
+- [x] Footers 
+- [ ] Forms 
+- [ ] Cards
+- [ ] Hero Sections
+- [ ] Buttons
+- [ ] FAQs
+- [ ] 404
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h3>NPM Components We Provide:</h3> 
+-[ ] button
+-[ ] Form Control
+so on.. from website
 
-### `npm run build`
+<h4>NPM Usage</h4>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    $ 'npm i next-gen-ui'
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<h4>Imports</h4>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h5>1. Buttons</h5>
 
-### `npm run eject`
+    import { Button } from 'next-gen-ui'
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+    const App = () => {
+         return(
+            <Button>Click Me</Button>
+        );
+    }
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+    export default App;
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<h5>Varients:</h5>
+    
+    <Button type="danger">Click Me</Button>
+    <Button type="Secondary">Click Me</Button>
+    <Button type="Ghost">Click Me</Button>
+    <Button type="Disable">Click Me</Button>
+    <Button Loading>Secondary Button</Button>
+    <Button icon={(`props`) => {}}> Download ↓ </Button>
+    <Button size='large | default | small'>Large</Button>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+# License
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<a href="https://choosealicense.com/licenses/mit/">**MIT License**</a><br>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Copyright (c) 2021 Next Gen UI Developers.**
+
+Permission is not granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including with limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+### Tech & Tools:
+##### Front-end:
+<div class="row">
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind CSS-white?style=for-the-badge&logo=tailwindcss&logoColor=" />
+<img src="https://img.shields.io/badge/React.Js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Nextjs-white?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
+
+##### Back-end:
+<div class="row">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase&logoColor=" />
+<img src="https://img.shields.io/badge/Storybook-white?style=for-the-badge&logo=storybook&logoColor=" />
+
+</div>
