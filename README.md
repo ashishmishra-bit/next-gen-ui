@@ -1,4 +1,5 @@
-<img src="https://imgur.com/JsW6aKt.png" >
+![Logo](https://imgur.com/JsW6aKt.png)
+<hr>
 
 # Next-Gen-UI
 Next Gen Ui is a home for front-end & UI/Ux developers. We provide all the necessary components required to build a scalable front-end application which suits the user experience in a unique way. <br>
