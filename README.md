@@ -455,7 +455,7 @@ SOFTWARE.
 <br>
 <br>
 <br>
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<img align="left" width="100" height="100" src="https://i.imgur.com/1zKU2KD.jpeg">
 
 <div>Om Prakash</div><br>
 <a href="https://www.linkedin.com/in/ashishmishra2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishmishra" height="30" width="50" /></a>
@@ -473,7 +473,7 @@ SOFTWARE.
 <br>
 <br>
 <br>
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<img align="left" width="100" height="100" src="https://imgur.com/8uJJZp6.jpg">
 
 <div>Shubham Singh</div><br>
 <a href="https://www.linkedin.com/in/ashishmishra2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishmishra" height="30" width="50" /></a>
