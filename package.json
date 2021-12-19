@@ -1,6 +1,6 @@
 {
   "name": "next-gen-ui",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "private": false,
   "license": "MIT",
   "author": "Ashish Kumar Mishhra",
@@ -8,7 +8,22 @@
   "main": "/lib/index.js",
   "homepage": "https://nextgenui.in/",
   "description": "Next Gen Ui is a home for front-end & UI/Ux developers. We provide all the necessary components required to build a scalable front-end application which suits the user experience in a unique way.",
-  "keywords":["Next.js", "React.js" , "Next Gen UI" , "Tailwind  Css" , "Component UI" , "Front-end" , "Loaders" , "Login Forms" , "Spinners" , "Buttons", "Link" , "Forms" , "Search" , "Text-Input"],
+  "keywords": [
+    "Next.js",
+    "React.js",
+    "Next Gen UI",
+    "Tailwind  Css",
+    "Component UI",
+    "Front-end",
+    "Loaders",
+    "Login Forms",
+    "Spinners",
+    "Buttons",
+    "Link",
+    "Forms",
+    "Search",
+    "Text-Input"
+  ],
   "directories": {
     "lib": "lib"
   },
