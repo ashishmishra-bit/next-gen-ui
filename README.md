@@ -23,26 +23,26 @@ we provide :
 # Usage
 <h3>Components We Provide:</h3> 
 
-- [x] Navbars
-- [x] Footers
-- [x] Forms
-- [x] Cards
-- [x] Hero Sections
-- [x] Buttons
-- [x] FAQs
-- [x] 404
+- Navbars
+- Footers
+- Forms
+- Cards
+- Hero Sections
+- Buttons
+- FAQs
+- 404
 
 <h3>NPM Components We Provide:</h3>
 
-- [x] button
-- [x] Form Control
-- [x] Link
-- [x] Login
-- [x] Search
-- [x] Select
-- [x] Skeleton
-- [x] Spinner
-- [x] TextInput
+- button
+- Form Control
+- Link
+- Login
+- Search
+- Select
+- Skeleton
+- Spinner Loader
+- TextInput
 
 <h4>NPM Usage</h4>
 
@@ -406,7 +406,7 @@ SOFTWARE.
 ##### Design:
 <div class="row">
 <img src="https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/illustrator-cyan?style=for-the-badge&logo=adobe&logoColor=white" />
+<img src="https://img.shields.io/badge/illustrator-white?style=for-the-badge&logo=adobe&logoColor=black" />
 
 </div>
 
