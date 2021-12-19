@@ -17,53 +17,7 @@ we provide :
 
 <img src="https://i.imgur.com/BAUPjcG.png" >
 
-# Developers
 
-<img align="left" width="100" height="100" src="https://i.imgur.com/k7o3oFU.png/100/100">
-
-<div>Ashish Kumar Mishra</div><br>
-<a href="https://www.linkedin.com/in/ashishmishra2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishmishra" height="30" width="50" /></a>
-<a href="https://www.linkedin.com/in/ashishmishra2002/" target="blank"><img align="center" src="https://patrickstofner.com/src/github.png" alt="ashishmishra" height="40" width="40" /></a>&nbsp&nbsp
-<a href="https://ashish.pages.dev" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" alt="ashishmishra" height="40" width="40" /></a>
-<br>
-<br>
-<br>
-<img align="left" width="100" height="100" src="https://i.imgur.com/QrxYwym.png/100/100">
-
-<div>Ankit Raj</div><br>
-<a href="https://www.linkedin.com/in/ankit-raj-a3405b1b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishmishra" height="30" width="50" /></a>
-<a href="https://www.github.com/AnkitRajCode" target="blank"><img align="center" src="https://patrickstofner.com/src/github.png" alt="ashishmishra" height="40" width="40" /></a>&nbsp&nbsp
-<a href="https://ankitraj.pages.dev" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" alt="ashishmishra" height="40" width="40" /></a>
-<br>
-<br>
-<br>
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
-
-<div>Om Prakash</div><br>
-<a href="https://www.linkedin.com/in/ashishmishra2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishmishra" height="30" width="50" /></a>
-<a href="https://www.linkedin.com/in/ashishmishra2002/" target="blank"><img align="center" src="https://patrickstofner.com/src/github.png" alt="ashishmishra" height="40" width="40" /></a>&nbsp&nbsp
-<a href="https://www.linkedin.com/in/ashishmishra2002/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" alt="ashishmishra" height="40" width="40" /></a>
-<br>
-<br>
-<br>
-<img align="left" width="100" height="100" src="https://imgur.com/PMUzRgL.png/100/100">
-
-<div>Shivam Sinha</div><br>
-<a href="https://www.linkedin.com/in/ashishmishra2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishmishra" height="30" width="50" /></a>
-<a href="https://www.linkedin.com/in/ashishmishra2002/" target="blank"><img align="center" src="https://patrickstofner.com/src/github.png" alt="ashishmishra" height="40" width="40" /></a>&nbsp&nbsp
-<a href="https://www.linkedin.com/in/ashishmishra2002/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" alt="ashishmishra" height="40" width="40" /></a>
-<br>
-<br>
-<br>
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
-
-<div>Shubham Singh</div><br>
-<a href="https://www.linkedin.com/in/ashishmishra2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishmishra" height="30" width="50" /></a>
-<a href="https://www.linkedin.com/in/ashishmishra2002/" target="blank"><img align="center" src="https://patrickstofner.com/src/github.png" alt="ashishmishra" height="40" width="40" /></a>&nbsp&nbsp
-<a href="https://www.linkedin.com/in/ashishmishra2002/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" alt="ashishmishra" height="40" width="40" /></a>
-
-<br>
-<br>
 
 # Usage
 <h3>Components We Provide:</h3> 
@@ -479,3 +433,51 @@ SOFTWARE.
 
 <img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=white" />
 </div>
+
+# Developers
+
+<img align="left" width="100" height="100" src="https://i.imgur.com/k7o3oFU.png/100/100">
+
+<div>Ashish Kumar Mishra</div><br>
+<a href="https://www.linkedin.com/in/ashishmishra2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishmishra" height="30" width="50" /></a>
+<a href="https://github.com/ashishmishra-bit" target="blank"><img align="center" src="https://patrickstofner.com/src/github.png" alt="ashishmishra" height="40" width="40" /></a>&nbsp&nbsp
+<a href="https://ashish.pages.dev" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" alt="ashishmishra" height="40" width="40" /></a>
+<br>
+<br>
+<br>
+<img align="left" width="100" height="100" src="https://i.imgur.com/QrxYwym.png/100/100">
+
+<div>Ankit Raj</div><br>
+<a href="https://www.linkedin.com/in/ankit-raj-a3405b1b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishmishra" height="30" width="50" /></a>
+<a href="https://www.github.com/AnkitRajCode" target="blank"><img align="center" src="https://patrickstofner.com/src/github.png" alt="ashishmishra" height="40" width="40" /></a>&nbsp&nbsp
+<a href="https://ankitraj.pages.dev" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" alt="ashishmishra" height="40" width="40" /></a>
+<br>
+<br>
+<br>
+<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+
+<div>Om Prakash</div><br>
+<a href="https://www.linkedin.com/in/ashishmishra2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishmishra" height="30" width="50" /></a>
+<a href="https://www.linkedin.com/in/ashishmishra2002/" target="blank"><img align="center" src="https://patrickstofner.com/src/github.png" alt="ashishmishra" height="40" width="40" /></a>&nbsp&nbsp
+<a href="https://www.linkedin.com/in/ashishmishra2002/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" alt="ashishmishra" height="40" width="40" /></a>
+<br>
+<br>
+<br>
+<img align="left" width="100" height="100" src="https://imgur.com/PMUzRgL.png/100/100">
+
+<div>Shivam Sinha</div><br>
+<a href="https://www.linkedin.com/in/ashishmishra2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishmishra" height="30" width="50" /></a>
+<a href="https://www.linkedin.com/in/ashishmishra2002/" target="blank"><img align="center" src="https://patrickstofner.com/src/github.png" alt="ashishmishra" height="40" width="40" /></a>&nbsp&nbsp
+<a href="https://www.linkedin.com/in/ashishmishra2002/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" alt="ashishmishra" height="40" width="40" /></a>
+<br>
+<br>
+<br>
+<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+
+<div>Shubham Singh</div><br>
+<a href="https://www.linkedin.com/in/ashishmishra2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishmishra" height="30" width="50" /></a>
+<a href="https://www.linkedin.com/in/ashishmishra2002/" target="blank"><img align="center" src="https://patrickstofner.com/src/github.png" alt="ashishmishra" height="40" width="40" /></a>&nbsp&nbsp
+<a href="https://www.linkedin.com/in/ashishmishra2002/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" alt="ashishmishra" height="40" width="40" /></a>
+
+<br>
+<br>
