@@ -422,8 +422,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-### Tech & Tools:
-##### Front-end:
+## Tech & Tools:
+### Front-end:
 ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
@@ -436,7 +436,7 @@ SOFTWARE.
 
 
 
-##### Back-end:
+### Back-end:
 <div class="row">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> 
 <img src="https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -446,7 +446,7 @@ SOFTWARE.
 
 </div>
 
-##### Design:
+### Design:
 <div class="row">
 <img src="https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/illustrator-white?style=for-the-badge&logo=adobe&logoColor=black" />
@@ -461,7 +461,7 @@ SOFTWARE.
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-##### Version Control:
+### Version Control:
 <div class="row">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
@@ -469,7 +469,7 @@ SOFTWARE.
 
 
 
-##### Package:
+### Package:
 <div class="row">
 
 <img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=white" />
