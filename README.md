@@ -188,14 +188,15 @@ export default App;
 <Link disabled href="#">
 ```
 
-<h5>4. Login</h5>
+<h5>4. Auth(Login/Signup)</h5>
 
 ```javascript
-import { Login } from 'next-gen-ui'
+import { Login, Signup } from 'next-gen-ui'
 
 const App = () => {
     return(
         <Login onSubmit={() => {}} />
+        <Signup onSubmit={() => {}} />
     );
 }
 
@@ -248,7 +249,46 @@ export default App;
 <h5>Varients:</h5>
 
 ```javascript
-iska samjh nahi aaya likh lena 
+//with Error
+() => {
+  const [option, setOption] = useState<SelectOption | undefined>(listOptions[1]);
+  return <Select
+    error
+    width='250px'
+    placeholder='Select option'
+    option={option}
+    listOptions={listOptions}
+    onChange={(option) => { 
+      setOption(option);
+    }}
+  />
+}
+
+//Disable
+() => {
+  const [option, setOption] = useState<SelectOption | undefined>(listOptions[1]);
+  return <Select
+    disabled
+    width='250px'
+    placeholder='Select option'
+    option={option}
+    listOptions={listOptions}
+    onChange={(option) => { 
+      setOption(option);
+    }}
+  />
+}
+
+//Size
+() => {
+  return (
+    <Row>
+      <Select placeholder='large' size='large' listOptions={listOptions} />
+      <Select placeholder='default' size='default' listOptions={listOptions} />
+      <Select placeholder='small' size='small' listOptions={listOptions} />
+    </Row>
+  );
+}
 ```
 
 <h5>7. Skeleton</h5>
