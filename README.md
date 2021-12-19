@@ -1,4 +1,4 @@
-![Logo](https://imgur.com/JsW6aKt.png)
+![Logo](https://i.imgur.com/CePQwuG.png)
 <hr>
 
 # Next-Gen-UI
