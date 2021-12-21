@@ -2,7 +2,7 @@
 <hr>
 
 # Next-Gen-UI
-Next Gen Ui is a home for front-end & UI/Ux developers. We provide all the necessary components required to build a scalable front-end application which suits the user experience in a unique way. <br>
+Next Gen UI is a home for front-end & UI/Ux developers. We provide all the necessary components required to build a scalable front-end application which suits the user experience in a unique way. <br>
 we provide :
 1. <a href="https://www.npmjs.com/package/next-gen-ui">NPM</a> package support with latest updates.
 2. _**HTML**_ & _**ReactJs/NextJs**_ based per-build templates which uses advance CSS Library called _**Tailwind CSS**_
@@ -79,10 +79,23 @@ export default App;
 <h5>2. Form Control</h5>
 
 ```javascript
-import { FormControl } from 'next-gen-ui'
+import React, { useState } from 'react';
+
+import { FormControl, TextInput } from 'next-gen-ui'
+import { validate as validateEmail } from 'email-validator';
 
 const App = () => {
-    return(
+    const [value, setValue] = React.useState('');
+    const [isValid, setIsValid] = React.useState(false);
+    const [isVisited, setIsVisited] = React.useState(false);
+    const shouldShowError = !isValid && isVisited;
+    const onChange = (event: React.FormEvent<HTMLInputElement>) => {
+        const {value} = event.currentTarget;
+        setIsValid(validateEmail(value));
+        setValue(value);
+    };
+
+    return (
         <FormControl
             label='Email'
             htmlFor='email'
@@ -103,7 +116,7 @@ const App = () => {
                 error={shouldShowError}
             />
         </FormControl>
-    );
+    )
 }
 
 export default App;
@@ -112,23 +125,29 @@ export default App;
 <h5>Varients:</h5>
 
 ```javascript
-() => {
+import React from 'react';
+import { FormControl, TextInput } from 'next-gen-ui'
+
+const App = () => {
+
     return (
-        <FormControl
-            label='Username'
-            htmlFor='username'
-            hint="You can't change this field"
-            disabled
-        >
-            <TextInput
-                id='username'
-                width='250px'
-                value='john_doe'
+            <FormControl
+                label='Username'
+                htmlFor='username'
+                hint="You can't change this field"
                 disabled
-            />
-        </FormControl>
+            >
+                <TextInput
+                    id='username'
+                    width='250px'
+                    value='john_doe'
+                    disabled
+                />
+            </FormControl>
     )
 }
+
+export default App;
 ```
 ```javascript
 () => {
